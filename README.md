@@ -7,7 +7,8 @@
   <img src="https://profile-counter.glitch.me/swetha4444/count.svg" />
 </p>
 
-[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetha4444)](https://github.com/swetha4444) <hr><hr>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetha4444)](https://github.com/swetha4444) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swetha4444&exclude_repo=github-readme-stats,swetha4444.github.io)](https://github.com/swetha4444)
 
 
