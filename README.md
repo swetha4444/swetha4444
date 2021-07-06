@@ -3,9 +3,8 @@
  <h2 align="center">GitHub Stats</h2>
 </p>
 
-
- ## Visitors Count: 
 <p align="center"> 
+  <h3>Visitors Count:</h3>
   <img src="https://profile-counter.glitch.me/swetha4444/count.svg" />
 </p>
 
