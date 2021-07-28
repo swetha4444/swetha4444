@@ -1,4 +1,4 @@
-<h1 align="center">Hi �, I'm Swetha Saseendran</h1>
+<h1 align="center">Hi, I'm Swetha Saseendran</h1>
 <h3 align="center">As a self-driven individual with good inter-personal skills, can easily adapt to any work environment, open for exciting roles and have a fascination for Data Science. I have familiarity in areas of Web Development and Data Visualization.</h3>
 
 <p align="center">
