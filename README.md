@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Swetha Saseendran! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></h1> 
 <h3 align="center">An aspiring Data Scientist!</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha4444&show_icons=true&theme=dark&locale=en&layout=compact" alt="swetha4444" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha4444&show_icons=true&theme=dark&locale=en&layout=compact" alt="swetha4444" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha4444&show_icons=true&theme=dark&hide_border=true&locale=en" alt="swetha4444" /></p>
 
