@@ -1,16 +1,11 @@
 <h1 align="center">Hi, I'm Swetha Saseendran! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></h1> 
+<h3 align="center">An aspiring Data Scientist!</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha4444&show_icons=true&theme=dark&locale=en&layout=compact" alt="swetha4444" /></p>
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Stats</h2>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha4444&show_icons=true&theme=dark&hide_border=true&locale=en" alt="swetha4444" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetha4444&theme=dark" alt="swetha4444" /></p>
 
-
-[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetha4444)](https://github.com/swetha4444) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swetha4444&exclude_repo=github-readme-stats,swetha4444.github.io)](https://github.com/swetha4444)
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetha4444&" alt="swetha4444" /></p>
 
 
 
