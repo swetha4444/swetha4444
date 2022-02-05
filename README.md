@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Swetha Saseendran! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></h1> 
-<h3 align="center">An aspiring Data Scientist and a Software Developer! <br/> <a href="https://portfolio-website2-ieqqdwfxa-swetha4444.vercel.app/projects">Check out my portfolio site! </a></h3>
+<h3 align="center">An aspiring Data Scientist and a Software Developer! <br/> <a href="https://portfolio-website2-ieqqdwfxa-swetha4444.vercel.app" target="_blank">Check out my portfolio site! </a></h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha4444&show_icons=true&theme=dark&locale=en&layout=compact" alt="swetha4444" /></p>
 
